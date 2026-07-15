@@ -39,7 +39,7 @@ Become a Python Developer and Data Analyst.
 
 📫 Connect with Me
 
-- Email: your-email@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- Email: sayalikhedkar0@gmail.com
+- LinkedIn: https://github.com/Sayali2610
 
 ⭐ Thanks for visiting my profile!
