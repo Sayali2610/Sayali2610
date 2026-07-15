@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Sayali Khedkar
 
-<!--
-**Sayali2610/Sayali2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- NumPy
+- Pandas
+- Django
+- Git & GitHub
+- SQL
+
+💻 Interested In
+- Python Development
+- Data Analytics
+- Backend Development
+
+🚀 Current Projects
+- Student Management System
+- Django Projects
+- Python Practice
+- Data Analysis Projects
+
+🛠 Skills
+
+- Python
+- NumPy
+- Pandas
+- Django
+- SQL
+- Git
+- GitHub
+
+🎯 Goal
+
+Become a Python Developer and Data Analyst.
+
+📫 Connect with Me
+
+- Email: your-email@gmail.com
+- LinkedIn: Add your LinkedIn link here
+
+⭐ Thanks for visiting my profile!
