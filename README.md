@@ -40,6 +40,6 @@ Become a Python Developer and Data Analyst.
 📫 Connect with Me
 
 - Email: sayalikhedkar0@gmail.com
-- LinkedIn: https://github.com/Sayali2610
+- LinkedIn: https://www.linkedin.com/in/sayali-khedkar-14a0a030b/
 
 ⭐ Thanks for visiting my profile!
